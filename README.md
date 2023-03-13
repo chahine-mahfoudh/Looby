@@ -1,4 +1,5 @@
 # Getting Started with our new app Looby developped using react
+![logo1](https://user-images.githubusercontent.com/61563894/224600968-132ca110-9a93-48ec-b70c-57737b957b78.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
