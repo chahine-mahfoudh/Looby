@@ -1,6 +1,5 @@
 # Getting Started with our new app Looby developped using react
 ![loby_logo](https://user-images.githubusercontent.com/61563894/224601150-d5cee8ec-145b-4cda-a7d7-9715d088b313.png)
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
